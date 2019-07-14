@@ -9,3 +9,4 @@ git branch
 my dev branc
 >>>>>>> dev
 git branch dev 2019/07/14
+push remote dev
